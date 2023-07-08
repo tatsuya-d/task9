@@ -14,4 +14,5 @@
 |application.properties|何を設定するかによって、application.properties ファイルにはさまざまな設定が記述されることがあります。一般的に、Javaアプリケーションの設定やSpring Frameworkを使用したアプリケーションの設定に使用される。|
 |図例|<img width="711" alt="スクリーンショット 2023-07-07 23 16 37" src="https://github.com/tatsuya-d/task9/assets/133928911/944d9b9f-b323-4d40-bf98-cf36ba186819">|
 |Impl|実行、実装する。|
+|オーバーライド|上書きする。というイメージ。|
 
